@@ -1,0 +1,12 @@
+{
+    "LATTICE_SIZE": 10,
+    "REPEAT": 10,
+    "T_START" : 2.0,
+    "TK_STEPS" : 50000,
+    "K" : 20,
+    "ALPHA" : 0.9,
+    "SEED": 1874387022,
+    "DATA_DIR": "data/SA_TM_square",
+    "INTER_PATH": "config_files/6q.inter",
+    "BB_PATH": "config_files/backbones_CI.bb"
+}

@@ -1,0 +1,10 @@
+{
+    "LATTICE_SIZE": 10,
+    "REPEAT": 10,
+    "STEPS": 1000000,
+    "T": 1.0,
+    "SEED": 1874387022,
+    "DATA_DIR": "data/MH_VSHD_square",
+    "INTER_PATH": "config_files/HP.inter",
+    "BB_PATH": "config_files/backbones_CI.bb"
+}
