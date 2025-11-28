@@ -1,7 +1,7 @@
 #ifndef SNAPPER_H
 #define SNAPPER_H
 
-#include <external/HighFive/include/highfive/H5File.hpp>
+#include <highfive/H5File.hpp>
 #include <functional>
 #include <array>
 #include "configuration.hpp"
